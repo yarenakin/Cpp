@@ -16,7 +16,7 @@ struct person{
 struct person person_one;
 struct person person_two;
 
-void upload_person(struct person (*newPerson),const char (*name),const char (*lastname),int age)
+void upload_person(struct person (*newPerson),const char (*name),const char (*lastname),const int age)
 {
     static int person_number = 1;
     newPerson->name = name;
