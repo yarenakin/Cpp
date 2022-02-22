@@ -76,8 +76,8 @@ public:
 int main()
 {	
     Circular_Buffer<uint32_t> cb(10);
-    printf("\n === CircularBuffer Test ===\n");
-    printf("Size: %zu\n", cb.size());
+    cout<<"\n === CircularBuffer Test ===\n";
+    cout<<"Size:"<<cb.size()<<"%zu\n";
     
     for (int i = 0; i < 9; i++)
     {
@@ -85,7 +85,7 @@ int main()
         cout<<"Okunan Veri: "<<cb.read() <<"\n";
     }
 
-    printf("Size: %zu\n", cb.size());
+    cout<<"Size: "<<cb.size()<<"%zu\n";
 
 	return 0;
 }
