@@ -1,5 +1,5 @@
 /*
-bitsel makseleme işlemi (bitmask)
+bitsel maskeleme işlemi (bitmask)
 by Yaren AKIN
 09.03.2022
 */
