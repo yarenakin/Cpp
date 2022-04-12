@@ -1,0 +1,21 @@
+12/4/2022 10:12:28 [INFO] | This is first log file!
+12/4/2022 10:12:44 [INFO] | This is two log file!
+12/%b4/2022 10:18:45 [INFO] | This is two log file!
+12/95704/2022 10:19:23 [INFO] | This is two log file!
+12/4/2022 10:21:8 [INFO] | This is two log file!
+12/4/2022 10:21:36 [WARN] | This is two log file!
+12/4/2022 10:29:9 [DEBUG] | This is three log level!
+12/ 4/2022 10:30:26 [DEBUG] | This is three log level!
+12/04/2022 10:30:51 [DEBUG] | This is three log level!
+12/04/2022 10:33:14 [DEBUG] | This is three log level!
+12/04/2022 10:33:25 [DEBUG] | This is three log level!
+12/04/2022 10:45:21 VER: 1.0.0 [DEBUG] | This is three log level!
+12/04/2022 10:46:40 VER: 1.0.0 [DEBUG] | This is three log level!
+12/04/2022 10:47:16 VER: 1.0.0 [DEBUG] | This is three log level!
+12/04/2022 11:00:37 37 VER: 1.0.0 [DEBUG] | This is three log level!
+12/04/2022 11:02:48 C:\Projects\main\main\logger.cpp VER: 1.0.0 [DEBUG] | This is three log level!
+12/04/2022 11:03:30 C:\Projects\main\main\logger.cpp 38 VER: 1.0.0 [DEBUG] | This is three log level!
+12/04/2022 11:03:49 C:\Projects\main\main\logger.cpp:38 VER: 1.0.0 [DEBUG] | This is three log level!
+12/04/2022 11:06:21 C:\Projects\main\main\logger.cpp:38 VER: 1.0.0 [DEBUG] | This is three log level!
+12/04/2022 11:10:26 C:\Projects\main\main\logger.h:38 VER: 1.0.0 [DEBUG] | This is three log level!
+12/04/2022 11:20:15 16:VER: 1.0.0 [DEBUG] | This is three log level!

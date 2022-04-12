@@ -1,0 +1,15 @@
+12/04/2022 12:20:27 19:[DEBUG] | test log macro 
+12/04/2022 13:41:45 9:[DEBUG] | test log macro 
+12/04/2022 13:47:26 C:\Projects\main\main\main.cpp:[DEBUG] | test log macro 
+12/04/2022 13:48:25 C:\Projects\main\main\main.cpp:9 [DEBUG] | test log macro 
+12/04/2022 13:51:02 C:\Projects\main\main\main.cpp:9 VER: 1.0.0 [DEBUG] | test log macro 
+12/04/2022 13:52:37 C:\Projects\main\main\main.cpp:9 VER: 1.0.0 [DEBUG] | test log macro 
+12/04/2022 13:59:23 C:\Projects\main\main\main.cpp:9 VER: 1.0.0 [DEBUG] | test log macro 
+VER: 1.0.0 [DEBUG] 12/04/2022 14:01:22 C:\Projects\main\main\main.cpp:9 | test log macro 
+VER:1.0.0 [DEBUG] 12/04/2022 14:01:44 C:\Projects\main\main\main.cpp:9 | test log macro 
+VER:1.0.0 [DEBUG] 12/04/2022 14:02:43 C:\Projects\main\main\main.cpp main:9 | test log macro 
+VER:1.0.0 [DEBUG] 12/04/2022 14:03:06 C:\Projects\main\main\main.cpp->main:9 | test log macro 
+VER:1.0.0 [DEBUG] 12/04/2022 14:05:29 C:\Projects\main\main\main.cpp->main:9 | test log macro 
+VER:1.0.0 [DEBUG] 12/04/2022 14:07:17 C:\Projects\main\main\main.cpp [main]:9 | test log macro 
+VER:1.0.0 [DEBUG] 12/04/2022 14:08:26 C:\Projects\main\main\main.cpp [foo]:8 | test log macro 
+VER:1.0.0 [DEBUG] 12/04/2022 14:09:53 C:\Projects\main\main\main.cpp [foo]:8 | test log macro 
